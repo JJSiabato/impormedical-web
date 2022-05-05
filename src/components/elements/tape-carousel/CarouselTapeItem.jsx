@@ -7,7 +7,6 @@ const CarouselTapeItem = (data) => {
         <div  className="rows">
         <div className='left'></div> 
         {data.data.map((item, index)=>{
-            console.log(item)
             return(                 
                 <div  key={Math.random()} className="card" >
                     <img className="card-img-top" src={item.url} alt="Card"/>

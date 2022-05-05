@@ -1,0 +1,126 @@
+{
+    "wheelchair":[
+        {
+            "id":"1",
+            "name":"Silla de Ruedas Estándar Llanta Maciza Desarmable Rin Estrella Negro Grafito",
+            "url_img":"https://impormedical.com.co/images/virtuemart/product/Kbe1462FF-MP23-DFren.jpg",
+            "description":"Con características estándar, esta silla de ruedas Konfort Basic está fabricada en acero martillado y es ideal para uso en interiores y exteriores."
+        },
+        {
+            "id":"2",
+            "name":"Silla de Ruedas de Transporte Konfort Basic",
+            "url_img":"https://impormedical.com.co/images/virtuemart/product/EP8A0142.jpg",
+            "description":"Para quienes necesitan que los lleven de un lugar a otro de forma segura y fácil."
+        },
+        {
+            "id":"3",
+            "name":"Silla de Ruedas Estándar Doble Propósito Konfort Plus",
+            "url_img":"https://impormedical.com.co/images/virtuemart/product/EP8A0175.jpg",
+            "description":"Para quienes necesitan ayuda para movilizarse o se movilizan de forma independiente, esta silla puede ser usada y configurada para usarse de estas dos formas. Cuando necesite transportarla o guardarla, será más fácil gracias a su opción de desmonte rápido de sus llantas y sus partes removibles"
+        },
+        {
+            "id":"4",
+            "name":"Silla de Ruedas Iron Light Konfort Standard",
+            "url_img":"https://impormedical.com.co/images/virtuemart/product/EP8A02081.jpg",
+            "description":"Con un diseño funcional y características superiores, esta silla de ruedas Konfort Standard, está fabricada en acero resistente para brindar total seguridad y estabilidad al usuario. Ademas cuenta con diferentes opciones de configuración para adaptarse a las necesidades requeridas por el paciente. Con su cómodo sistema de plegado y llantas desmontables facilitan su almacenamiento y transporte. Sus reposapiés elevables permiten cambiar de posición las piernas del paciente ayudando a su confort."
+        },
+        {
+            "id":"5",
+            "name":"Silla de Ruedas en Aluminio Konfort Plus",
+            "url_img":"https://impormedical.com.co/images/virtuemart/product/EP8A0227.jpg",
+            "description":"Para quienes necesitan ayuda para movilizarse por un rato. Cuando necesite transportarla, guardarla o hacer transferencias será más fácil gracias a su opción de desmonte rápido de sus llantas y reposapiés y sus partes abatibles y removibles"
+        },
+        {
+            "id":"6",
+            "name":"Silla de Ruedas Pediátrica Neurológica Konfort Basic",
+            "url_img":"https://impormedical.com.co/images/virtuemart/product/KBE-958LBH-466.jpg",
+            "description":"Con un fácil y práctico sistema de reclinación y basculación, la silla de ruedas pediátrica Konfort Basic ofrece un adecuado posicionamiento al usuario. Fabricada en aluminio y de marco plegable la hace resistente y fácil de almacenar. Sus aditamentos acolchados brindan confort durante largos períodos de sedestación. Con sistema de fácil accionamiento por medio de guayas facilita la manipulación al cuidador."
+        }
+
+    ],
+
+    "home_terapy":[
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        }
+
+    ],
+    "movility":[
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        },
+        {
+            "id":"",
+            "name":"",
+            "url_img":"",
+            "description":""
+        }
+
+    ]
+
+
+
+    
+
+    
+}
