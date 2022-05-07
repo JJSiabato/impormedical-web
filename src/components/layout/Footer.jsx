@@ -3,7 +3,7 @@ import metodosPay from '../../assets/metodos_de_pago.png'
 
 const Footer = () => {
   return (
-    <div className='container'>
+    <div  id="footer" className='container mt-5'>
         <div className="footer">
             <div className='group-list'>
                 <h5 className='text-warning'>SOBRE NOSOTROS</h5>
@@ -41,7 +41,7 @@ const Footer = () => {
                 <h5 className='text-warning'>SUSCRIBASE A NUESTRO NEWSLETTER</h5>
                <form  className='text-white text-left' action="/">
                    <input type="text" className='w-100'/><br />
-                   <input type="checkbox"  Name="terminos" id=""  />
+                   <input type="checkbox"  name="terminos" id=""  />
                    <span>Aceptación de términos y condiciones de manejo de datos</span>
                </form>
                <div className='text-left mt-3'>

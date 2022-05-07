@@ -2,11 +2,18 @@ import React, { useState } from 'react'
 import {FaUserMd, FaWheelchair} from 'react-icons/fa'
 import {RiHeartPulseLine} from 'react-icons/ri'
 import {MdCleanHands} from 'react-icons/md'
+import SiderBar from './SiderBar'
 
 
 const NavBar = () => {
 
+
+
 const [burgerActive,setBurgerActive] = useState(false)
+
+ 
+  
+
   return (
     <div className='nav-bar'>
         <div className={ burgerActive ? 'burger active' : 'burger'} onClick={()=>setBurgerActive(!burgerActive)}>
@@ -20,6 +27,7 @@ const [burgerActive,setBurgerActive] = useState(false)
                 <li><a href="/"><span><MdCleanHands/></span> TAPABOCAS Y DESINFECCIÓN</a></li>
             </ul>
         </div>
+      <SiderBar changeClass = {burgerActive ? 'active': ''}/>
     </div>
   )
 }

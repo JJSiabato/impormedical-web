@@ -4,17 +4,16 @@ const Collection = ({data, title, color}) => {
     let newData = data.slice(0,4)
    
   return (
-    <div className='container'> 
+    <div className='container text-center'> 
         <h2 className={'text-center text-'+color}>{title}</h2><br />       
-        <div className='row d-grid gap-3'>
+        <div className='card-deck'>
         {newData.map((item, index) =>{
             return(
-            <div key={index}className="card x-4">
+            <div key={index} className="card">
                 <img src={item.url_img} className="card-img-top" alt="card"/>
-                <div className="card-body">
-                    <h5 className="card-title">{item.name}</h5>
-                    <p className="card-text">{item.tex}</p>
-                    <a href="/" className="btn btn-primary w-100">AÑADIR A CARRITO</a>
+                <div className="text-center card-body">
+                    <p className="card-title">{item.name}</p>
+                    <button className="btn btn-primary w-75 ">AÑADIR A CARRITO</button>
                 </div>
             </div>
             )

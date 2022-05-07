@@ -10,19 +10,19 @@ import DualImg from '../sections/DualImg'
 const Main = () => {
   
   return (
-    <>
+    <div id="main">
       <div>
           <Carrousel/>
           <CarouselTape/>
       </div>
-      <div>        
-        <Collection data={products.wheelchair} title="NUEVA COLECCIÓN" color="primary"/>
-      </div>
-      <div>
-        <ImgGroup/>
-      </div>
-      <section>
-        <Buy/>
+      <section id="collection">        
+        <Collection data={products.wheelchair} title="NUEVA COLECCIÓN" color="primary" />
+      </section>
+      <section id="we">
+        <ImgGroup />
+      </section>
+      <section id="articles">
+        <Buy />
       </section>
       <section>
         <DualImg/>
@@ -33,7 +33,7 @@ const Main = () => {
       <section className='mt-5'>
         <Collection data={products.movility} title="MOVILIDAD" color="primary"/>
       </section>
-    </>
+    </div>
   )
 }
 
